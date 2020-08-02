@@ -1,7 +1,6 @@
 # Algorithms, Part I
 
-This repository contains the programming assignments from Algorithms, Part I on Coursera. Copyright belongs to Princeton University, Kevin Wayne and Robert Sedgewick.
-[Course website](https://algs4.cs.princeton.edu/home/)
+This repository contains the programming assignments from [Algorithms, Part I](https://algs4.cs.princeton.edu/home/). Copyright belongs to Princeton University, Kevin Wayne and Robert Sedgewick.
 
 ## Week 1: percolation
 
